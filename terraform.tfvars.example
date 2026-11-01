@@ -1,0 +1,5 @@
+aws_region = "us-west-2"
+course_id = "it3200"
+student_id = "yeewi"
+# Replace with a VERIFIED Kali Linux AMI for us-west-2 before deploying.
+kali_ami_id = "ami-0123456789abcdef0"
